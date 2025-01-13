@@ -30,3 +30,13 @@ By the end of this project, you will:
 3. Be proficient in building scalable and secure backend services with Node.js and Express.js.
 4. Be able to design and manage databases using MongoDB and create efficient, structured schemas.
 5. Have a complete e-commerce application that you can showcase as part of your portfolio.
+<<<<<<< HEAD
+=======
+
+
+
+#milestone2
+
+1.created login page using react and tailwind CSS
+2.used routers
+>>>>>>> 19acd7e (mile2)
